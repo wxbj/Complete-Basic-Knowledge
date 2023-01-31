@@ -1,2 +1,2 @@
-# Complete-Basic-Knowledge
-the basic knowladge of python
+# 概述
+本仓库存放的是一些我总结的python基础知识
