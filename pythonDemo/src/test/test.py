@@ -1,5 +1,5 @@
 def test():
-    pass
+    print("Hello World")
 
 
 class Student:
@@ -7,4 +7,4 @@ class Student:
 
 
 if __name__ == '__main__':
-    pass
+    test()
