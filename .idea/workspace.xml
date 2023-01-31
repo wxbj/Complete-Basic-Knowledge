@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2dcf3162-3c43-4729-b609-0bfa20b6dfca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/.idea/dictionaries/.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/.idea/pythonDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/dataType/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/dataType/bool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/dataType/build-in function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/dataType/bytearray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/dataType/bytes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/dataType/dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/dataType/filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/dataType/float.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/dataType/int.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/dataType/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/dataType/map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/dataType/range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/dataType/reduce.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/dataType/set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/dataType/str.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/dataType/tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/dataType/zip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/main/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/main/all.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/module/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/module/cmath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/module/configparser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/module/hashlib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/module/json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/module/logging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/module/os.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/module/pickle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/module/random.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/module/re.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/module/selectors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/module/shelve.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/module/socket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/module/socketserver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/module/subprocess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/module/sys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/module/time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/module/xml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/src/test/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/venv/Scripts/Activate.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/venv/Scripts/activate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/venv/Scripts/activate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/venv/Scripts/deactivate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/venv/Scripts/python.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/venv/Scripts/pythonw.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonDemo/venv/pyvenv.cfg" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2L4q8kvHy95rSCqwXuz2vJ9dCHS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.python" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2dcf3162-3c43-4729-b609-0bfa20b6dfca" name="Default Changelist" comment="" />
+      <created>1675140544391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675140544391</updated>
+      <workItem from="1675140545538" duration="602000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

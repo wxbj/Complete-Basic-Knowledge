@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ba90509-0a31-4d77-91a6-428b2c9eded7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="pythonDemo" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1zUY9cfkHZfthmnsgInru040RWk" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlserver&#10;oracle&#10;mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\BaiduSyncdisk\code\pCode\pythonDemo\src\test" />
+      <recent name="D:\Project\pythonDemo\src\main" />
+      <recent name="D:\Project\pythonDemo\src\help" />
+      <recent name="D:\Project\pythonDemo\src\dataType" />
+      <recent name="D:\Project\pythonDemo\src\help_translate" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test (1)">
+    <configuration name="UNICODE" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/help" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/help/UNICODE.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/test/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Project\pythonDemo\src\test\test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/test/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Project\pythonDemo\src\dataType\int.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.UNICODE" />
+        <item itemvalue="Python.demo (1)" />
+        <item itemvalue="Python.demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@6eb9b11e" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@6eb9b11e" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@56cc6aa5" type="9fbbdea:ServiceModel$ServiceNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@263b797b" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@6af54dc" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ba90509-0a31-4d77-91a6-428b2c9eded7" name="Default Changelist" comment="" />
+      <created>1634203983359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634203983359</updated>
+      <workItem from="1634203986073" duration="132000" />
+      <workItem from="1634995072624" duration="630000" />
+      <workItem from="1635125537789" duration="230000" />
+      <workItem from="1635143980597" duration="3700000" />
+      <workItem from="1635149435916" duration="2989000" />
+      <workItem from="1635213730469" duration="1961000" />
+      <workItem from="1635215730885" duration="537000" />
+      <workItem from="1635216842974" duration="699000" />
+      <workItem from="1635218270021" duration="706000" />
+      <workItem from="1635227699822" duration="599000" />
+      <workItem from="1635228315799" duration="58000" />
+      <workItem from="1635336768268" duration="1583000" />
+      <workItem from="1635345128430" duration="624000" />
+      <workItem from="1635346293929" duration="189000" />
+      <workItem from="1635347715831" duration="136000" />
+      <workItem from="1635348467238" duration="768000" />
+      <workItem from="1635384063628" duration="750000" />
+      <workItem from="1635486960721" duration="200000" />
+      <workItem from="1635604501367" duration="204000" />
+      <workItem from="1635729553203" duration="1201000" />
+      <workItem from="1635734126994" duration="607000" />
+      <workItem from="1635735735915" duration="90000" />
+      <workItem from="1635744527617" duration="3015000" />
+      <workItem from="1635747581851" duration="2448000" />
+      <workItem from="1635754733707" duration="127000" />
+      <workItem from="1636090002416" duration="124000" />
+      <workItem from="1636156784957" duration="18000" />
+      <workItem from="1636201604234" duration="709000" />
+      <workItem from="1636243972836" duration="4394000" />
+      <workItem from="1636542786690" duration="207000" />
+      <workItem from="1636553458170" duration="1183000" />
+      <workItem from="1636633631408" duration="5677000" />
+      <workItem from="1636678187666" duration="2994000" />
+      <workItem from="1636701978981" duration="4505000" />
+      <workItem from="1636711571360" duration="13924000" />
+      <workItem from="1636767539465" duration="9183000" />
+      <workItem from="1636781128133" duration="2016000" />
+      <workItem from="1636783177039" duration="9442000" />
+      <workItem from="1636796280370" duration="14209000" />
+      <workItem from="1636813588439" duration="1988000" />
+      <workItem from="1636850726640" duration="491000" />
+      <workItem from="1636851237451" duration="1696000" />
+      <workItem from="1636857879787" duration="3179000" />
+      <workItem from="1636868111258" duration="10273000" />
+      <workItem from="1636885303034" duration="11989000" />
+      <workItem from="1636937127635" duration="20568000" />
+      <workItem from="1636967984528" duration="14282000" />
+      <workItem from="1637022726026" duration="615000" />
+      <workItem from="1637027233542" duration="18366000" />
+      <workItem from="1637054068186" duration="15684000" />
+      <workItem from="1637112000929" duration="3577000" />
+      <workItem from="1637123285128" duration="24590000" />
+      <workItem from="1637217029746" duration="20000" />
+      <workItem from="1637227971526" duration="13640000" />
+      <workItem from="1637289239078" duration="3711000" />
+      <workItem from="1637296617521" duration="1388000" />
+      <workItem from="1637298161399" duration="28472000" />
+      <workItem from="1637332007537" duration="2023000" />
+      <workItem from="1637371504766" duration="9821000" />
+      <workItem from="1637386496040" duration="27940000" />
+      <workItem from="1637458029667" duration="8256000" />
+      <workItem from="1637468363648" duration="32451000" />
+      <workItem from="1637542342868" duration="2218000" />
+      <workItem from="1637558948870" duration="12085000" />
+      <workItem from="1637576659603" duration="12552000" />
+      <workItem from="1637625946677" duration="32155000" />
+      <workItem from="1637811521765" duration="89000" />
+      <workItem from="1637819326079" duration="196000" />
+      <workItem from="1637907069489" duration="6769000" />
+      <workItem from="1637919579993" duration="5420000" />
+      <workItem from="1637936907537" duration="5000" />
+      <workItem from="1637998189162" duration="614000" />
+      <workItem from="1638019864962" duration="268000" />
+      <workItem from="1638080772687" duration="7000" />
+      <workItem from="1639273749776" duration="1429000" />
+      <workItem from="1639634232629" duration="500000" />
+      <workItem from="1653896525166" duration="207000" />
+      <workItem from="1653896941936" duration="734000" />
+      <workItem from="1653898214569" duration="540000" />
+      <workItem from="1653985273406" duration="9000" />
+      <workItem from="1654694685300" duration="10000" />
+      <workItem from="1654694767713" duration="5000" />
+      <workItem from="1672918569346" duration="224000" />
+      <workItem from="1673698997958" duration="8000" />
+      <workItem from="1673784723293" duration="99000" />
+      <workItem from="1673785820426" duration="856000" />
+      <workItem from="1673787419446" duration="2816000" />
+      <workItem from="1674178199247" duration="324000" />
+      <workItem from="1674527862590" duration="116000" />
+      <workItem from="1674527993618" duration="3354000" />
+      <workItem from="1674560351936" duration="126000" />
+      <workItem from="1674618821708" duration="6915000" />
+      <workItem from="1674632358552" duration="48000" />
+      <workItem from="1674642397838" duration="17000" />
+      <workItem from="1674706356870" duration="4130000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonDemo$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1674717493862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/test" />
+    <SUITE FILE_PATH="coverage/pythonDemo$demo__1_.coverage" NAME="demo (1) Coverage Results" MODIFIED="1637298201544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/test" />
+    <SUITE FILE_PATH="coverage/pythonDemo$UNICODE.coverage" NAME="UNICODE Coverage Results" MODIFIED="1637480434232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/help" />
+    <SUITE FILE_PATH="coverage/pythonDemo$test.coverage" NAME="test Coverage Results" MODIFIED="1637480445752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main" />
+    <SUITE FILE_PATH="coverage/pythonDemo$demo.coverage" NAME="demo Coverage Results" MODIFIED="1636891909220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main" />
+  </component>
+</project>
